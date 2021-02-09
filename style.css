@@ -408,8 +408,6 @@ background: url(img/profile.svg) no-repeat;
 
 .contact-list a {
 	text-decoration: none;
-	position: absolute;
-	list-style-type: none;
 }
 
 .contact-lang {
