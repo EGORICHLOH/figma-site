@@ -1,5 +1,3 @@
-
-
 body {
   padding: 0;
   margin: 0;
@@ -183,7 +181,7 @@ min-height: 100px;
 .conctact-list {
   padding: 5px 0 0 0;
   margin: 0;
-  list-style: none;
+  list-style-type: none;
 }
 
 .conctact-item {
